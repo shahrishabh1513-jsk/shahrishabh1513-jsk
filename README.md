@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Alpeshabhai Shah</h1>
-<h3 align="center">I’m a third-year B.Sc. IT student at P. P. Savani University with practical knowledge of HTML, CSS, JavaScript, and PHP. I’m focused on creating responsive, efficient, and user-friendly web solutions while continuously improving my problem-solving skills and exploring modern web development practices.</h3>
+<h3 align="center">I'm a passionate third-year B.Sc. IT student at P. P. Savani University with strong practical skills in HTML, CSS, JavaScript, and PHP. I enjoy transforming ideas into responsive, high-performance web solutions with a focus on usability and clean design. Constantly learning and evolving, I thrive on solving real-world problems and exploring modern technologies to build impactful digital experiences.</h3>
 
 - 🔭 I’m currently working on [Hyfun-foods-corporate-website](https://github.com/shahrishabh1513-jsk/hyfun-foods-corporate-website)
 
