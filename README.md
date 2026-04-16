@@ -1,3 +1,5 @@
+<div style="font-family: Cambria, serif;">
+
 <h1 align="center">Hi 👋, I'm Rishabh Alpeshabhai Shah</h1>
 
 <h3 align="center">
@@ -11,7 +13,7 @@ I'm a passionate third-year B.Sc. IT student at P. P. Savani University with str
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and PHP**
 - 👯 I’m looking to collaborate on [Student Attendance Management System](https://github.com/shahrishabh1513-jsk/-EduTrack-Pro-student-attendance-management-system)
 - 🤝 I’m looking for help with [Caria](https://github.com/shahrishabh1513-jsk/Caria)
-- 👨‍💻 All of my projects: **shahrishu1515@gmail.com**
+- 👨‍💻 All of my projects: **mailto:shahrishu1515@gmail.com**
 - 💬 Ask me about **Web Development, HTML, CSS, JavaScript, PHP & WordPress**
 - 📫 Reach me at: **mailto:shahrishu1515@gmail.com**
 - 📄 Portfolio: [Click Here](https://shahrishabh1513-jsk.github.io/Rishabh_shah-portfolio/)
@@ -20,16 +22,16 @@ I'm a passionate third-year B.Sc. IT student at P. P. Savani University with str
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
-
-<a href="https://www.facebook.com/rishabh.a.shah.1" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/rishabh.a.shah.1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
 </a>
-
-<a href="https://www.instagram.com/rishabh_shah15/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rishabh_shah15/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
 </a>
 </p>
 
@@ -52,15 +54,15 @@ I'm a passionate third-year B.Sc. IT student at P. P. Savani University with str
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrishabh1513-jsk&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrishabh1513-jsk&show_icons=true&locale=en&layout=compact" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=dark" height="180"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=dark" />
-</p>
+</div>
