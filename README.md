@@ -22,39 +22,45 @@ I'm a passionate third-year B.Sc. IT student at P. P. Savani University with str
 
 ### 🌐 Connect with me:
 <p align="left">
+
+<a href="https://rishabh-shah-portfolio.netlify.app/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/4333/4333609.png" height="40" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/rishabh.a.shah.1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" height="40" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/rishabh_shah15/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="40" alt="Instagram"/>
 </a>
+
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://cdn-icons-png.flaticon.com/512/9969/9969473.png" width="40" height="40" alt="C"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40" alt="C++"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40" height="40" alt="HTML"/>
+<img src="https://cdn-icons-png.flaticon.com/512/16020/16020753.png" width="40" height="40" alt="CSS"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn-icons-png.flaticon.com/512/15484/15484314.png" width="40" height="40" alt="PHP"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40" alt="Python"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" height="40" alt="MongoDB"/>
+<img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" width="40" height="40" alt="Google Cloud"/>
+<img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="40" height="40" alt="Git"/>
+<img src="https://cdn-icons-png.flaticon.com/512/14063/14063266.png" width="40" height="40" alt="GitHub"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" alt="Figma"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40" alt="Photoshop"/>
 </p>
 
 ---
