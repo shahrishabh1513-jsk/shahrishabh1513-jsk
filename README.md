@@ -56,5 +56,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=highcontrast" alt="shahrishabh1513-jsk" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk" alt="shahrishabh1513-jsk" /></a> </p>
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shahrishabh1513-jsk&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&theme=rose_pine&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahrishabh1513-jsk&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
