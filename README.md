@@ -53,7 +53,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40"/> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=highcontrast" alt="shahrishabh1513-jsk" /></p>
+![](https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahrishabh1513-jsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
