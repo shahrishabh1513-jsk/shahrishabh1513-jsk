@@ -55,6 +55,6 @@
 
 ![](https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahrishabh1513-jsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://streak-stats.demolab.com/?user=Shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahrishabh1513-jsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
