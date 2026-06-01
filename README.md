@@ -55,7 +55,7 @@
 
 
 
-![](https://streak-stats.demolab.com/?user=Shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahrishabh1513-jsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
