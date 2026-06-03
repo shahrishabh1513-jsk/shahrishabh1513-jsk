@@ -56,5 +56,4 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahrishabh1513-jsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahrishabh1513-jsk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&theme=dark&hide_border=false)<br/>
