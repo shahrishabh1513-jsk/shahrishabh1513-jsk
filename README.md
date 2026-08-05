@@ -130,27 +130,3 @@ I enjoy transforming ideas into **responsive, high-performance web applications*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
----
-
-## ✨ Featured Projects
-
-* 🍟 **HyFun Foods – Corporate Website**
-* 📚 **EduTrack Pro – Student Attendance Management System**
-* 🛒 **Tastetummy – Online Food Ordering & Delivery System**
-* 🌐 **Personal Portfolio Website**
-* 🚗 **Vehicle Number Plate Detection System**
-* 🥽 **Lens Studio AR/VR Projects**
-
----
-
-## 🎯 Current Focus
-
-* 🌐 Advanced **Frontend & Backend Web Development**
-* 🧩 **Full Stack Development**
-* 🥽 **Lens Studio & AR/VR Experiences**
-* 🖼️ **Image Processing with Python & OpenCV**
-* ☁️ **Git, GitHub & Deployment Workflows**
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to connect, collaborate, and explore my projects.** 🚀
