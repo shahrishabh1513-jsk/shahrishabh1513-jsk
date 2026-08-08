@@ -3,7 +3,7 @@
     <td width="78%" valign="middle">
       <h1>Hi there, I'm Rishabh Alpeshabhai Shah 👋</h1>
       <h3>Web Developer | AR/VR Enthusiast | B.Sc. IT (Honours) Student</h3>
-     <img width="491" height="491" alt="image" src="https://github.com/user-attachments/assets/8a64f96a-b348-4280-ae64-76b89ddf76e0" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+%26+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
     </td>
     <td width="22%" align="center">
       <img src="https://github.com/shahrishabh1513-jsk.png" width="150" style="border-radius:50%;" alt="Rishabh Shah" />
@@ -75,19 +75,3 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
-</p>
-
-<h3 align="center">💡 "Code is like humor — when you have to explain it, it's bad."</h3>
