@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+%26+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
     </td>
     <td width="22%" align="center">
-      <img src="https://github.com/shahrishabh1513-jsk.png" width="150" style="border-radius:50%;" alt="Rishabh Shah" />
+      <img src="https://github.com/user-attachments/assets/772206c4-17fa-416b-afe3-d0236376aea2" width="150" style="border-radius:50%;"  alt="Rishabh Shah"  />
     </td>
   </tr>
 </table>
