@@ -1,9 +1,15 @@
-<h1 align="center">Hi there, I'm Rishabh Alpeshabhai Shah 👋</h1>
-<h3 align="center">Web Developer | AR/VR Enthusiast | B.Sc. IT (Honours) Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+%26+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="78%" valign="middle">
+      <h1>Hi there, I'm Rishabh Alpeshabhai Shah 👋</h1>
+      <h3>Web Developer | AR/VR Enthusiast | B.Sc. IT (Honours) Student</h3>
+     <img width="491" height="491" alt="image" src="https://github.com/user-attachments/assets/8a64f96a-b348-4280-ae64-76b89ddf76e0" />
+    </td>
+    <td width="22%" align="center">
+      <img src="https://github.com/shahrishabh1513-jsk.png" width="150" style="border-radius:50%;" alt="Rishabh Shah" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://rishabh-shah-portfolio.netlify.app/" target="_blank">
@@ -51,10 +57,37 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">💡 "Code is like humor — when you have to explain it, it's bad."</h3>
