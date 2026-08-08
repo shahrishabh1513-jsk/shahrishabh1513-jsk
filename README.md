@@ -63,19 +63,3 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
-</p>
-
-<h3 align="center">💡 "Code is like humor — when you have to explain it, it's bad."</h3>
