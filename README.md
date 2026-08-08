@@ -60,15 +60,7 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td valign="top" width="50%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
     <td valign="top" width="50%">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
