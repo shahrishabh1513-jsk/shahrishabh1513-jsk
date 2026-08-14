@@ -1,12 +1,14 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Rishabh%20Alpeshabhai%20Shah&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20AR%2FVR%20Enthusiast%20%7C%20B.Sc.%20IT%20(Honours)&descAlignY=60&descSize=15"/>
+</div>
+
 <table width="100%">
   <tr>
     <td width="78%" valign="middle">
-      <h1>Hi there, I'm Rishabh Alpeshabhai Shah 👋</h1>
-      <h3>Web Developer | AR/VR Enthusiast | B.Sc. IT (Honours) Student</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=false&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+%26+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=false&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+%26+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
     </td>
     <td width="22%" align="center">
-      <img src="https://github.com/user-attachments/assets/772206c4-17fa-416b-afe3-d0236376aea2" width="150" style="border-radius:50%;"  alt="Rishabh Shah"  />
+      <img src="https://github.com/user-attachments/assets/772206c4-17fa-416b-afe3-d0236376aea2" width="150" style="border-radius:50%; border: 3px solid #8E2DE2;"  alt="Rishabh Shah"  />
     </td>
   </tr>
 </table>
@@ -29,7 +31,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header"/>
 
 ### 🚀 About Me
 
@@ -45,7 +47,7 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 📫 Reach Me At:           shahrishu1515@gmail.com
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2E9EF7&height=3&section=header"/>
 
 ### 🛠️ Tech Stack
 
@@ -53,17 +55,44 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,python,wordpress,git,github,vscode" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header"/>
 
 ### 📊 GitHub Stats
 
 <table align="center">
   <tr>
      <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
     </td>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" alt="Activity Graph" />
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E2DE2" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2E9EF7&height=3&section=header"/>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<h3 align="center">💡 "Code is like humor — when you have to explain it, it's bad."</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer"/>
