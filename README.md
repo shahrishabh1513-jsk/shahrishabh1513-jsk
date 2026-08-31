@@ -40,21 +40,12 @@
 
 I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani University**, building responsive, high-performance web applications with clean UI/UX and scalable design. I love turning ideas into real digital products — and I'm currently diving deeper into **AR/VR** and **Image Processing** to push what's possible on the web.
 
-<div align="center">
-
-`🔭 Working on: HyFun Foods – Corporate Website`
-
-`🌱 Learning: HTML · CSS · JS · PHP · WordPress · Lens Studio · Image Processing`
-
-`👯 Collaborate on: Student Attendance Management System`
-
-`🤝 Need help with: Caria`
-
-`📄 Portfolio: rishabh-shah-portfolio.netlify.app`
-
-`📫 Email: shahrishu1515@gmail.com`
-
-</div>
+- 🔭 **Working on:** HyFun Foods – Corporate Website
+- 🌱 **Learning:** HTML · CSS · JS · PHP · WordPress · Lens Studio · Image Processing
+- 👯 **Collaborate on:** Student Attendance Management System
+- 🤝 **Need help with:** Caria
+- 📄 **Portfolio:** [rishabh-shah-portfolio.netlify.app](https://rishabh-shah-portfolio.netlify.app/)
+- 📫 **Email:** shahrishu1515@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
@@ -71,10 +62,10 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 <table align="center">
   <tr>
      <td valign="top" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&hide_border=true&background=FFFFFF&ring=F5A623&fire=000000&currStreakLabel=F5A623&stroke=F5A623" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=shahrishabh1513-jsk&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623" alt="GitHub Streak" />
     </td>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&hide_border=true&bg_color=FFFFFF&color=000000&line=F5A623&point=000000" alt="Activity Graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=react-dark&hide_border=true" alt="Activity Graph" />
     </td>
   </tr>
 </table>
