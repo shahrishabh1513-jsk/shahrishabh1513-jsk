@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/rishabh-shah-logo.pn](https://github.com/user-attachments/assets/1a57830b-55c5-4e6f-afb5-e69225db018a)g" width="600" alt="Rishabh Shah"/>
+<img src="https://github.com/user-attachments/assets/1a57830b-55c5-4e6f-afb5-e69225db018a" width="600" alt="Rishabh Shah"/>
 
 <h3>Web Developer &nbsp;·&nbsp; AR/VR Enthusiast &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
 
