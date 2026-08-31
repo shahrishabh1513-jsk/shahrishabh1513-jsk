@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rishabh-shah-logo.png" width="600" alt="Rishabh Shah"/>
+<img src="[./assets/rishabh-shah-logo.pn](https://github.com/user-attachments/assets/1a57830b-55c5-4e6f-afb5-e69225db018a)g" width="600" alt="Rishabh Shah"/>
 
 <h3>Web Developer &nbsp;·&nbsp; AR/VR Enthusiast &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
 
@@ -74,16 +74,6 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=F5A623&icon_color=000000&text_color=000000" />
-    </td>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=F5A623&text_color=000000" />
-    </td>
-  </tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
