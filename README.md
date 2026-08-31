@@ -71,19 +71,15 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 <table align="center">
   <tr>
      <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&hide_border=true&background=FFFFFF&ring=F5A623&fire=000000&currStreakLabel=F5A623&text_color=000000" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=shahrishabh1513-jsk&hide_border=true&background=FFFFFF&ring=F5A623&fire=000000&currStreakLabel=F5A623&stroke=F5A623" alt="GitHub Streak" />
     </td>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&hide_border=true&bg_color=FFFFFF&color=000000&line=F5A623&point=000000&area_color=F5A623" alt="Activity Graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&hide_border=true&bg_color=FFFFFF&color=000000&line=F5A623&point=000000" alt="Activity Graph" />
     </td>
   </tr>
 </table>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
-
-
-<sub>"Code is like humor — when you have to explain it, it's bad."</sub>
 
 </div>
 
