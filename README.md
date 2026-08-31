@@ -1,79 +1,106 @@
-<table>
-<tr>
-<td width="30%" valign="top" align="center">
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/772206c4-17fa-416b-afe3-d0236376aea2" width="180" style="border-radius:12px;" alt="Rishabh Shah"/>
+<img src="./assets/rishabh-shah-logo.png" width="600" alt="Rishabh Shah"/>
 
-### Rishabh Shah
+<h3>Web Developer &nbsp;·&nbsp; AR/VR Enthusiast &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
 
-Web Developer<br/>AR/VR Enthusiast<br/>B.Sc. IT (Honours)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+and+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C42?style=flat-square&logo=netlify&logoColor=white)](https://rishabh-shah-portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahrishabh1513-jsk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahrishu1515@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh_shah15/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rishabh.a.shah.1)
-
-<br/>
-
-**Years Learning**
-2+
-
-**Projects Built**
-15+
-
-**Curiosity**
-∞
-
-</td>
-<td width="70%" valign="top">
-
-## Hi, I'm Rishabh 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C42&center=false&vCenter=true&width=550&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+and+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
-
-I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani University**, building responsive, high-performance web applications with clean UI/UX and scalable design. Currently diving deeper into **AR/VR** and **Image Processing** to push what's possible on the web.
-
-<br/>
-
-**Right now**
-
-| | |
-|---|---|
-| 🔭 Working on | HyFun Foods – Corporate Website |
-| 🌱 Learning | HTML, CSS, JS, PHP, WordPress, Lens Studio, Image Processing |
-| 👯 Open to collaborate | Student Attendance Management System |
-| 🤝 Looking for help with | Caria |
-| 💬 Ask me about | Web Development, PHP, WordPress, AR/VR, Image Processing |
-
-<br/>
-
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,python,wordpress,git,github,vscode" />
+<img src="https://img.shields.io/badge/👋_Open_to_Work-000000?style=flat-square&labelColor=000000&color=F5A623"/>
+<img src="https://img.shields.io/badge/🚀_Open_Source-000000?style=flat-square&labelColor=000000&color=F5A623"/>
+<img src="https://img.shields.io/badge/📍_Gujarat,_India-000000?style=flat-square&labelColor=000000&color=F5A623"/>
 
 <br/><br/>
 
-**GitHub Stats**
+<a href="https://rishabh-shah-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=netlify&logoColor=black"/></a>
+<a href="https://github.com/shahrishabh1513-jsk" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F5A623"/></a>
+<a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F5A623"/></a>
+<a href="https://www.instagram.com/rishabh_shah15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F5A623"/></a>
+<a href="https://www.facebook.com/rishabh.a.shah.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=F5A623"/></a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&hide_border=true&title_color=FF8C42&icon_color=FF8C42" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&hide_border=true&title_color=FF8C42" />
+</div>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&hide_border=true&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42" alt="GitHub Streak"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
-</td>
+<table align="center">
+<tr>
+<td align="center" width="25%"><sub>YEARS LEARNING</sub><br><b>2+</b></td>
+<td align="center" width="25%"><sub>PROJECTS BUILT</sub><br><b>15+</b></td>
+<td align="center" width="25%"><sub>DEGREE</sub><br><b>B.Sc. IT (Hons)</b></td>
+<td align="center" width="25%"><sub>CURIOSITY</sub><br><b>∞</b></td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:000000&height=4&section=header"/>
+
+### 🚀 About Me
+
+I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani University**, building responsive, high-performance web applications with clean UI/UX and scalable design. I love turning ideas into real digital products — and I'm currently diving deeper into **AR/VR** and **Image Processing** to push what's possible on the web.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile+Views&color=FF8C42&style=flat-square" alt="Profile Views" />
+`🔭 Working on: HyFun Foods – Corporate Website`
+`🌱 Learning: HTML · CSS · JS · PHP · WordPress · Lens Studio · Image Processing`
+`👯 Collaborate on: Student Attendance Management System`
+`🤝 Need help with: Caria`
+`📄 Portfolio: rishabh-shah-portfolio.netlify.app`
+`📫 Email: shahrishu1515@gmail.com`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,python,wordpress,git,github,vscode" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:000000&height=4&section=header"/>
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+     <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrishabh1513-jsk&hide_border=true&background=FFFFFF&ring=F5A623&fire=000000&currStreakLabel=F5A623&text_color=000000" alt="GitHub Streak" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&hide_border=true&bg_color=FFFFFF&color=000000&line=F5A623&point=000000&area_color=F5A623" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=F5A623&icon_color=000000&text_color=000000" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=F5A623&text_color=000000" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahrishabh1513-jsk&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shahrishabh1513-jsk&label=Profile%20Views&color=F5A623&style=for-the-badge" alt="Profile Views" />
+
+<br/>
 
 <sub>"Code is like humor — when you have to explain it, it's bad."</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F5A623&height=100&section=footer"/>
