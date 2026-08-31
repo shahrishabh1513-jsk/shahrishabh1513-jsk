@@ -27,7 +27,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><sub>YEARS LEARNING</sub><br><b>2+</b></td>
+<td align="center" width="25%"><sub>YEARS LEARNING</sub><br><b>3+</b></td>
 <td align="center" width="25%"><sub>PROJECTS BUILT</sub><br><b>15+</b></td>
 <td align="center" width="25%"><sub>DEGREE</sub><br><b>B.Sc. IT (Hons)</b></td>
 <td align="center" width="25%"><sub>CURIOSITY</sub><br><b>∞</b></td>
@@ -43,10 +43,15 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
 <div align="center">
 
 `🔭 Working on: HyFun Foods – Corporate Website`
+
 `🌱 Learning: HTML · CSS · JS · PHP · WordPress · Lens Studio · Image Processing`
+
 `👯 Collaborate on: Student Attendance Management System`
+
 `🤝 Need help with: Caria`
+
 `📄 Portfolio: rishabh-shah-portfolio.netlify.app`
+
 `📫 Email: shahrishu1515@gmail.com`
 
 </div>
