@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/1a57830b-55c5-4e6f-afb5-e69225db018a" width="600" alt="Rishabh Shah"/>
 
-<h3>Web Developer &nbsp;·&nbsp; AR/VR Enthusiast &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
+<h3>Web Developer &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+and+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -69,8 +69,6 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
     </td>
   </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
 </div>
 
