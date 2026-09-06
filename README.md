@@ -64,9 +64,6 @@ I'm a passionate **4th Year B.Sc. IT (Honours)** student at **P. P. Savani Unive
      <td valign="top" width="50%">
       <img width="100%" src="https://streak-stats.demolab.com?user=shahrishabh1513-jsk&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623" alt="GitHub Streak" />
     </td>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&theme=react-dark&hide_border=true" alt="Activity Graph" />
-    </td>
   </tr>
 </table>
 
