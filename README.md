@@ -1,8 +1,8 @@
-<img align="right" src="./assets/badge-logo-spin.svg" width="160" alt="Shah Rishabh spinning badge"/>
+<img align="right" src="./badge-logo-spin.svg" width="160" alt="Shah Rishabh spinning badge"/>
 
 <div align="center">
 <h3>Web Developer &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
-<img src="C:\Users\len21\Downloads\badge-logo-spin.svg"alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+and+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
 <br/><br/>
 <img src="https://img.shields.io/badge/👋_Open_to_Work-000000?style=flat-square&labelColor=000000&color=F5A623"/>
 <img src="https://img.shields.io/badge/🚀_Open_Source-000000?style=flat-square&labelColor=000000&color=F5A623"/>
