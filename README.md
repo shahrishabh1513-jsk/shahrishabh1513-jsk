@@ -1,5 +1,7 @@
 <img align="right" src="./badge-logo-spin.svg" width="160" alt="Shah Rishabh spinning badge"/>
 <img align="left" src="./badge-logo-spin.svg" width="160" alt="Shah Rishabh spinning badge"/>
+<br/><br/>
+<br/><br/>
 <div align="center">
 <h3>Web Developer &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+responsive+web+experiences;Exploring+AR%2FVR+and+Image+Processing;Always+learning%2C+always+building" alt="Typing SVG" />
