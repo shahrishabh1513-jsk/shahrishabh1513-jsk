@@ -1,6 +1,4 @@
-<table align="center">
-<tr>
-<td width="65%">
+<img align="right" src="./assets/badge-logo-spin.svg" width="160" alt="Shah Rishabh spinning badge"/>
 
 <div align="center">
 <h3>Web Developer &nbsp;·&nbsp; B.Sc. IT (Honours)</h3>
@@ -17,13 +15,6 @@
 <a href="https://www.instagram.com/rishabh_shah15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F5A623"/></a>
 <a href="https://www.facebook.com/rishabh.a.shah.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=F5A623"/></a>
 </div>
-
-</td>
-<td width="35%" align="center">
-<img src="./assets/badge-logo-spin.svg" width="170" alt="Shah Rishabh spinning badge"/>
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
