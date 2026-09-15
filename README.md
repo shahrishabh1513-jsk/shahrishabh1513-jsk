@@ -53,16 +53,7 @@ I'm a passionate 4th Year B.Sc. IT (Honours) student at P. P. Savani University,
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shahrishabh1513-jsk&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=FFFFFF" alt="GitHub Stats" />
-</td>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrishabh1513-jsk&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=FFFFFF" alt="Top Languages" />
-</td>
-</tr>
-</table>
+
 
 <p align="center">
 <img width="60%" src="https://streak-stats.demolab.com?user=shahrishabh1513-jsk&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&cache_seconds=86400" alt="GitHub Streak" />
@@ -70,10 +61,5 @@ I'm a passionate 4th Year B.Sc. IT (Honours) student at P. P. Savani University,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:F5A623&height=4&section=header"/>
 
-## 📈 Activity Graph
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrishabh1513-jsk&bg_color=0D1117&color=F5A623&line=F5A623&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F5A623&height=100&section=footer"/>
